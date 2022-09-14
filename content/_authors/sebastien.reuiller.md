@@ -11,6 +11,7 @@ missions:
     employer: Octo
 startups:
   - itou
+  - la.communaute.de.linclusion
 competences:
   - Développement Frontend
   - Développement Backend
